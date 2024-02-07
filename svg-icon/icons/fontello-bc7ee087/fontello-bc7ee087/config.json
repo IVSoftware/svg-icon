@@ -1,0 +1,30 @@
+{
+  "name": "my-svg-icons",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9ea0a737ccc45d6c510dcbae56058849",
+      "css": "music",
+      "code": 59398,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "735cea31a94ec284285c15ebc45ecfc8",
+      "css": "parent_pin_collapsed",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M375.2 250H375V253.9 291.7 333.3 666.7 708.3 746.1 750H375.2C377.3 819.4 434 875 503.9 875H625V802.1 541.7 458.3 218.8 125H503.9C434 125 377.3 180.6 375.2 250ZM0 367.4V632.6C0 697.4 52.6 750 117.4 750H312.5V666.7 333.3 250H117.4C52.6 250 0 302.6 0 367.4ZM958.3 458.3H687.5V541.7H958.3C981.3 541.7 1000 523 1000 500 1000 477 981.3 458.3 958.3 458.3Z",
+        "width": 1000
+      },
+      "search": [
+        "parent_pin_collapsed"
+      ]
+    }
+  ]
+}
