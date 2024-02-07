@@ -2,11 +2,11 @@
 
 This "may or may not" work for your use case, but it's something that I definitely wish I had known about sooner. Sites like [Fontello](https://fontello.com/) allow you to import your **.svg** icons and consolidate them into a font.ttf file containing glyphs for your custom icons (and/or any of the standard icons they provide). When I imported my **parent-pin-collapsed.svg** file and exported to **my-svg-icons** here is the result.
 
-[![demo][1]][1]
+[![demo on Android][1]][1]
 
 Here's a brief overview of the process:
 
-[![where it goes][2]][2]
+[![roadmap][2]][2]
 
 ___
 **Xaml**
@@ -61,4 +61,4 @@ public static class MauiProgram
 
 
   [1]: https://i.stack.imgur.com/JVXv9.png
-  [2]: https://i.stack.imgur.com/kVWRv.png
+  [2]: https://i.stack.imgur.com/mHOkZ.png
