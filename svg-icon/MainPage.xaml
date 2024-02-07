@@ -27,7 +27,7 @@
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I"
                 FontSize="18"
                 HorizontalOptions="Center" />
-
+            <!--So easy to make an icon-->
             <Button
                 x:Name="CounterBtn"
                 Text="&#xE801;"
